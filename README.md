@@ -100,7 +100,7 @@ Requirement Analysis is a critical phase in the software development lifecycle (
 
 ## Booking System Use Case Diagram
 
-![Booking Use Case](https://github.com/DarkHero792/requirement-analysis/blob/main/alx-booking-uc.png)
+![Booking Use Case](https://github.com/DarkHero792/requirement-analysis/raw/main/alx-booking-uc.png)
 
 # Acceptance Criteria
 
